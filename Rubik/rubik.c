@@ -71,8 +71,8 @@
 #define CORNER_RADIUS (0.075f)
 
 #define SPEED_SLICE (15.0f)
-#define SPEED_VIEW_PHI (10.0f)
-#define SPEED_VIEW_SIGMA (10.0f)
+#define SPEED_VIEW_PHI (5.0f)
+#define SPEED_VIEW_SIGMA (5.0f)
 
 #define DELAY (unsigned int)(50)
 
