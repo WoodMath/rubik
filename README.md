@@ -1,8 +1,9 @@
 # rubik
 Rubik Cube Animation using OpenGL
 
-![Thumbnail01](/screenshot01t.png?raw=true "Thumbnail 01")
-![Thumbnail02](/screenshot02t.png?raw=true "Thumbnail 02")
-![Thumbnail03](/screenshot03t.png?raw=true "Thumbnail 03")
-![Thumbnail04](/screenshot04t.png?raw=true "Thumbnail 04")
-![Thumbnail05](/screenshot05t.png?raw=true "Thumbnail 05")
+<img src="screenshot01.png" alt="Thumbnail01" width="256" height="256">
+<img src="screenshot02.png" alt="Thumbnail02" width="256" height="256">
+<img src="screenshot03.png" alt="Thumbnail03" width="256" height="256">
+<img src="screenshot04.png" alt="Thumbnail04" width="256" height="256">
+<img src="screenshot05.png" alt="Thumbnail05" width="256" height="256">
+
